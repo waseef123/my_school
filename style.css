@@ -1,8 +1,18 @@
 #welcome{
     text-align: center;
-    
+
 }
 body{
     text-align: center;
     
+}
+ul{
+    position: sticky;
+}
+#glyphicon glyphicon-film{
+border-radius:20px;
+}
+.is{
+    width:350px;
+    height:350px;
 }
